@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: 第一章 陨落的天才
 ---
 
    "斗之力，三段！"

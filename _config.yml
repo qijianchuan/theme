@@ -41,3 +41,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "book"
+    values:
+      layout: "book" 
+    

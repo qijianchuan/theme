@@ -27,7 +27,9 @@ paginate: 5
 
 #集合配置
 collections:
-  - books
+  - book
+    output: true
+    permalink: /book/:path/
 
 # QQ统计配置
 qq-appid: 500732275

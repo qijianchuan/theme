@@ -1,1 +1,39 @@
 
+title: 博客收藏夹                          # 网站标题
+description: 收集分享专业技术文章           # 网站描述
+url: https://blog.nomar.cn                # 域名网址
+baseurl: /                                #根路径
+
+# 邮箱配置
+email: 406429544@qq.com                 
+
+# 静态资源配置
+img: /assets/img 
+css: /assets/css  
+js:  /assets/js  
+
+## Docs: https://pages.github.com/versions/
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+  - jekyll-paginate
+
+# 分页配置
+paginate: 5
+
+  
+
+# QQ统计配置
+qq-appid: 500732275
+
+# 默认布局配置
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

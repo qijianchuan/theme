@@ -29,7 +29,7 @@ paginate: 5
 collections:
   book:
     output: true
-    permalink:/book/:path/
+    permalink:/:path/
     
 
 # QQ统计配置

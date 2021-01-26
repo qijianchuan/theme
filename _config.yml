@@ -25,7 +25,9 @@ plugins:
 # 分页配置
 paginate: 5
 
-  
+#集合配置
+collections:
+  - books
 
 # QQ统计配置
 qq-appid: 500732275
